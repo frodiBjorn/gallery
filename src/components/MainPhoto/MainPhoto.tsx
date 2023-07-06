@@ -1,4 +1,4 @@
-import { CommonClassProps, Photo } from '../../types';
+import { CommonClassProps, Photo} from '../../types';
 import style from './MainPhoto.module.scss';
 import cl from 'classnames';
 
